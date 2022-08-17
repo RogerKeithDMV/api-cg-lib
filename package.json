@@ -1,0 +1,24 @@
+{
+  "name": "api-cg-lib",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "Library that gets data from an Api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "JSON",
+    "library",
+    "CloudGen",
+    "NexGen",
+    "components"
+  ],
+  "author": "Jafet Malvaez Lopez <jafet.malvaez@cloudgensys.com> (https://www.cloudgensys.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "msgbroker-nxg-cg": "^0.1.0",
+    "utils-nxg-cg": "^1.0.7"
+  }
+}
