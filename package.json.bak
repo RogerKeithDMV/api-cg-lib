@@ -19,6 +19,6 @@
   "dependencies": {
     "axios": "^0.27.2",
     "msgbroker-nxg-cg": "^0.1.0",
-    "utils-nxg-cg": "^1.0.10"
+    "utils-nxg-cg": "^1.0.7"
   }
 }
